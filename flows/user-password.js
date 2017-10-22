@@ -1,5 +1,4 @@
 const request = require('request');  
-const yaml = require("yamljs");
 const settings = require("../settings.json");
 
 var authPost = {  
