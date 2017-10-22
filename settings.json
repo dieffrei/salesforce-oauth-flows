@@ -1,7 +1,7 @@
 {
-    "consumer-key": "3MVG9g9rbsTkKnAXoWZyiP.8xt0lMlZcXf2FjXMDUA9RefkYyk3Mn_fge3_RNdD3fulfa5q7KbqDQxBLYQBNh",
-    "consumer-secret": "1376125264073214022",
-    "username": "oauth-samples@dieffrei.com",
-    "password": "Tobi86!@2fRV4oUSg3dnR8eGBEvBNvSk",
+    "consumer-key": "",
+    "consumer-secret": "",
+    "username": "",
+    "password": "",
     "redirect-uri": "http://localhost:3000/oauth2/callback"
 }
