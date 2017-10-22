@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.2",
     "jsonwebtoken": "^8.1.0",
     "request-promise": "^4.2.2",
     "salesforce-jwt": "^0.1.0"
