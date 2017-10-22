@@ -1,0 +1,19 @@
+{
+  "name": "oauth-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.3.0",
+    "jsonwebtoken": "^8.1.0",
+    "node-yaml": "^3.1.1",
+    "request-promise": "^4.2.2",
+    "salesforce-jwt": "^0.1.0",
+    "yamljs": "^0.3.0"
+  }
+}

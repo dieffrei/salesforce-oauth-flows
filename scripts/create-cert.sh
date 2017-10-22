@@ -1,0 +1,2 @@
+openssl req -out certificates/server.csr -new -newkey rsa:2048 -nodes -keyout certificates/server.key
+openssl x509 -req -in certificates/server.csr -signkey certificates/server.key -out certificates/server.crt
