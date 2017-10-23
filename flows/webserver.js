@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const crypto = require('crypto');
 const settings = require("../settings.json");
 
 app.get('/login', function (req, res) {
@@ -10,7 +11,7 @@ app.get('/login', function (req, res) {
     );
 })
 
-app.get('/oauth2/callback', function (req, res) {
+app.get('/oauth2/callback', function (req, res) {    
     res.send(req.query.code);
 })
     
